@@ -1,5 +1,4 @@
 
-pip~=24.1.2
 joblib~=1.2.0
 pandas~=2.0.3
 fastapi~=0.111.0
