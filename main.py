@@ -37,6 +37,6 @@ async def data_endpoint(item: Data):
 
     biospy= model.predict(df)
 
-    return {int(biospy)}
+    return {"Biospy":int(biospy)}
 
 
